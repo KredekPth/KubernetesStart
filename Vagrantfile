@@ -1,5 +1,5 @@
 IMAGE_NAME = "centos/7"
-NODE_NUMBER = 3
+NODE_NUMBER = 1
 API_VERSION = "2"
 
 Vagrant.configure(API_VERSION) do |config|
